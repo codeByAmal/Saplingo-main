@@ -81,32 +81,6 @@ The project also includes administrative functionality for managing products, us
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of the website here to showcase the project.
-
-### 🏠 Home Page
-
-![Home Page](images/home.png)
-
-### 🔐 Login Page
-
-![Login Page](images/login.png)
-
-### 🛍️ Products
-
-![Products](images/products.png)
-
-### 🛒 Shopping Cart
-
-![Shopping Cart](images/cart.png)
-
-### 💳 Checkout
-
-![Checkout](images/checkout.png)
-
----
-
 ## 📂 Project Structure
 
 ```text
